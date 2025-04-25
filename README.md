@@ -5,6 +5,6 @@
 
   # jade121213's Website
 
-  Visit **[jade121213.github.io/lab-website-template](https://jade121213.github.io/lab-website-template)** 🚀
+  Visit **[gardenpair.cn](http://gardenpair.cn)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
