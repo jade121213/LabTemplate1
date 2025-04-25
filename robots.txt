@@ -1,1 +1,1 @@
-Sitemap: https://jade121213.github.io/lab-website-template/sitemap.xml
+Sitemap: http://gardenpair.cn/sitemap.xml
