@@ -1,7 +1,7 @@
 ---
 name: Jade
 image: images/photo.jpg
-role: principal-investigator
+role: RA
 affiliation: 密苏里大学
 aliases:
   - J. Smith
