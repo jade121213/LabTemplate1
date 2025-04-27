@@ -1,1 +1,1 @@
-Sitemap: https://jade121213.github.io/lab-website-template/sitemap.xml
+Sitemap: https://jade121213.github.io/LabTemplate1/sitemap.xml
