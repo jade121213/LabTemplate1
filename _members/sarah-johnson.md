@@ -2,10 +2,11 @@
 name: Sarah Johnson
 image: images/photo.jpg
 description: Lead Programmer
-role: programmer
+role: RA
+affiliation: 华盛顿大学
 links:
   email: sarah.johnson@gmail.com
   twitter: sarahjohnson
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+我是第一年的博士研究生, 现在研究方向未3D AIGC.
