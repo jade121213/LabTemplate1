@@ -1,6 +1,10 @@
 ---
-title: Example post 2
-author: jane-smith
+title: 深度学习入门教程（2）：使用预训练模型来文字生成图片TextToImageGenerationWithNetwork
+author: john
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+1：什么是文本到图像生成？
+文本到图像模型是一种机器学习模型，它将自然语言描述作为输入并生成与该描述匹配的图像。 由于深度神经网络的进步，此类模型于 2010 年代中期开始开发。 2022 年，最先进的文本到图像模型的输出，例如 OpenAI 的 DALL-E 2、Google Brain 的 Imagen、Midjourney 和 StabilityAI 的 Stable Diffusion 的输出开始接近真实照片和人类绘制艺术的质量。
+
+文本到图像模型通常结合了语言模型和生成图像模型，其中语言模型将输入文本转换为潜在表示，生成图像模型生成以该表示为条件的图像。 最有效的模型通常是根据抓取的大量图像和文本数据进行训练的来自网络。
+
