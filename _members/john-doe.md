@@ -1,8 +1,8 @@
 ---
 name: John Doe
 image: images/photo.jpg
-role: phd
-group: 圣路易斯大学
+role: RA
+affiliation: 圣路易斯大学
 links:
   github: john-doe
 ---
