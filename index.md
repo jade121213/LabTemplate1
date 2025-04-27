@@ -1,9 +1,9 @@
 ---
 ---
 
-# jade121213's Website
+# 实验室模板网站
 
-An engaging 1-3 sentence description of your lab.
+这里是未来人工智能创新实验室, 目前我们在招AI实习研究生,欢迎你的加入!
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+我们的研究集中在计算机视觉，三维重建,具体来说我们主要利用NerF算法来实现3D物体的高保真建模渲染.
 
 {%
   include button.html
@@ -34,7 +34,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+我们目前正在开发一个大型的Text-3D Model的 人工智能生成式平台.
 
 {%
   include button.html
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+我们的公司包的员工来自985/211高校,国内大型互联网企业, 同时还一大量海外留学背景的工程师加入.
 
 {%
   include button.html
