@@ -1,8 +1,8 @@
 ---
-name: Jane Smith
+name: Jade
 image: images/photo.jpg
 role: principal-investigator
-affiliation: University of Colorado
+affiliation: 密苏里大学
 aliases:
   - J. Smith
   - J Smith
@@ -11,10 +11,4 @@ links:
   orcid: 0000-0001-8713-9213
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+我是来自密苏里大学的Jade, 在Dr. Water的指导下开展农业计算机视觉的研究.
