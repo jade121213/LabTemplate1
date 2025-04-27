@@ -26,7 +26,7 @@
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/logo.jpg"
   link="research"
   title="Our Research"
   text=text
