@@ -1,5 +1,5 @@
 ---
-title: Team
+title: team
 nav:
   order: 3
   tooltip: About our team
@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+这里是团队界面
 
 {% include section.html %}
 
